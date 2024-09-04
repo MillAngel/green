@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgreen;
+    color: darkgreen;
+    padding: 5px;
+    margin-left: 250px;
+    margin-right: 100px;
+
+}
+table{
+    border-collapse:separate;
+    width: 800px;
+    height: 500px;
+    
+    
+
+}
+td, th{
+    padding: 5px;
+    background-color: darkgrey;
+    margin-left: 250px;
+    margin-right: 200px;
+    text-align:center;
+    min-width: 200px;
+    
+}
+header {padding: 5px;}
+footer {padding: 5px;}
